@@ -1,15 +1,16 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"[California State University, San Bernardino](https://csusb.edu)",
+        "degree":"Bachelor of Arts",
+        "major":"Computer Systems with Game Development Concentration ",
+        "notes":"GPA: 3.786, Dean's List",
+        "range":"2021 - 2023"
     },
     {
         "school":"Riverside City College",
         "degree":"Associate of Science",
-        "major":"Computer Science",
+        "major":"Computer Science, Mathematics",
+        "notes":"Mathematics",
         "range":"2017 - 2021"
     }
 ]
