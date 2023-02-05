@@ -8,19 +8,19 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Rollinsford, NH"
+address = "Riverside, CA"
 email = "539alexhernandez@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Alex"
 lastName = "Hernandez"
-phone = "1-555-555-1234"
+phone = "951-660-2560"
 profileImage = "img/TechChat.png"
 showEducation = true
 showExperience = true
-showOpenSource = true
+showOpenSource = false
 showProjects = true
-showPublications = true
-showQr = true
+showPublications = false
+showQr = false
 showSkills = true
 
 [params.google]
