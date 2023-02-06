@@ -9,4 +9,6 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+I am working on a Bachelor's Degree in Computer Systems with a concentration in Game Development. Earned three
+different associate degrees that include: mathematics, math and science, and computer science. Love video games so I
+decided to learn how to make them!
