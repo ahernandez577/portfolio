@@ -1,8 +1,5 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "C/C++","C#","Java","HTML","CSS","git","GitHub","php","javascript", "Node", "React", "Laravel"]
   },
@@ -14,13 +11,10 @@
       ]
   },
   {
-    "grouping":"Containers & Cloud",
+    "grouping":"Additional Skills",
       "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Fluent in Spanish (reading, writing, speaking)"},
+          {"name":"Notetaker for Services to Students with Disabilities (SSD) in several Computer Science classes"}
       ]
   }
 ]
