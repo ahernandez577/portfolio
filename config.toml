@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Riverside"
+address = "Riverside, CA"
 email = "539alexhernandez@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Alex"
