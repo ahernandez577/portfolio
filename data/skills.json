@@ -4,7 +4,7 @@
       "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "C/C++","C#","Java","HTML","CSS","git","bash","php","javascript", "Node", "React", "Laravel"]
+      "skills":[ "C/C++","C#","Java","HTML","CSS","git","GitHub","php","javascript", "Node", "React", "Laravel"]
   },
   {
       "grouping":"Platform Development & Administration",
@@ -13,10 +13,9 @@
   {
       "grouping":"Data Management",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Heroku"},
         {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
+        "MongoDB"
       ]
   },
   {
