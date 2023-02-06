@@ -4,7 +4,7 @@
       "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","C++","git","bash","php","javascript"]
+      "skills":[ "C/C++","C#","Java","HTML","CSS","git","bash","php","javascript", "Node", "React", "Laravel"]
   },
   {
       "grouping":"Platform Development & Administration",
