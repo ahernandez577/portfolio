@@ -7,15 +7,10 @@
       "skills":[ "C/C++","C#","Java","HTML","CSS","git","GitHub","php","javascript", "Node", "React", "Laravel"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
       "grouping":"Data Management",
       "skills":[
         {"name":"Heroku"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB"
+        {"name":"MongoDB"}
       ]
   },
   {
