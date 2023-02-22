@@ -3,7 +3,6 @@
   "date": "2018-02-11T12:41:05-05:00",
   "image": "/img/circleci-workflow.webp",
   "link": "https://github.com/withoutanymilk/Project-Roguelie",
-  "link": "https://www.youtube.com/watch?v=0klIbxLBc-w&ab_channel=ESPNFC",
   "image": "/img/ProjectNexusMainMenu.png",
   "description": "PROJECT NEXUS \"<em>is about a hero who will defeat the enemies and help free his people! </em>\" Used Unity game engine in order to create the game and coding in C#. Used different object oriented programming concepts such as polymorphism, and inheritance. Used git and Github for version control and collaboration. Worked on enemy sprite animations; used blend trees and state machine for animations.",
   "tags": ["DevOps","BOSH", "Java", "Atlassian Ecosystem", "monit", "python", "xml/xslt", "bash/shell","REST APIs"],
