@@ -4,10 +4,10 @@
   "image": "/img/circleci-workflow.webp",
   "link": "https://github.com/withoutanymilk/Project-Roguelie",
   "image": "/img/ProjectNexusMainMenu.png",
-  "description": "PROJECT NEXUS \"<em>is about a hero will defeat the enemies and help free his people! </em>\" Used Unity game engine in order to create the game and coding in C#. Used different object oriented programming concepts such as polymorphism, and inheritance. Used git and Github for version control and collaboration. Worked on enemy sprite animations; used blend trees and state machine for animations.",
+  "description": "PROJECT NEXUS \"<em>is about a hero who will defeat the enemies and help free his people! </em>\" Used Unity game engine in order to create the game and coding in C#. Used different object oriented programming concepts such as polymorphism, and inheritance. Used git and Github for version control and collaboration. Worked on enemy sprite animations; used blend trees and state machine for animations.",
   "tags": ["DevOps","BOSH", "Java", "Atlassian Ecosystem", "monit", "python", "xml/xslt", "bash/shell","REST APIs"],
   "fact": "",
   "featured":true
 }
 
-BOSH (Bosh Outer SHell) "...<em> is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.
+PROJECT NEXUS "...<em> This project is a Top Down Roguelike for Windows 10/11 called Project Nexus. Developed using the Unity Game Engine and intended for a wide audience of casual gamers</em>" The purpose of this game is to entertain and immerse the user in a vivid gameplay experience, through which the user must defeat the number of enemies in each dungeon on the map in a series of rooms of varying difficulties. The enemies will try to approach and kill you and you must shoot/slash them in order to advance to the next room. In order to beat the game the player must advance to the final boss room and defeat the <em>Demon Lord</em> to break calamity of the death loop.
