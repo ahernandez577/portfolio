@@ -9,3 +9,5 @@
 
 
 Multiple levels with varying enemies and stats. Enemies have close and ranged attacks. Player can use sword and crossbow for their choice of weapon. Solve puzzles to get to the next level and clear the enemies from each room. Final enemy has cutscene and its own boss music.
+
+Gameplay Video Link: https://www.youtube.com/watch?v=BXJ_VgEVMa4&ab_channel=TomMezzie
