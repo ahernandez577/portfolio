@@ -5,7 +5,7 @@
   "link": "https://github.com/withoutanymilk/Project-Roguelie",
   "image": "/img/ProjectNexusMainMenu.png",
   "description": "PROJECT NEXUS \"<em>is about a hero who will defeat the enemies and help free his people! </em>\" Used Unity game engine in order to create the game and coding in C#. Used different object oriented programming concepts such as polymorphism, and inheritance. Used git and Github for version control and collaboration. Worked on enemy sprite animations; used blend trees and state machine for animations.",
-  "tags": ["DevOps","BOSH", "Java", "Atlassian Ecosystem", "monit", "python", "xml/xslt", "bash/shell","REST APIs"],
+  "tags": ["C-Sharp", "Unity", "State Machines", "GitHub", "git"],
   "fact": "",
   "featured":true
 }
