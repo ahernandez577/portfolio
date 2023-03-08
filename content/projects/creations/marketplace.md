@@ -3,7 +3,7 @@
     "link":"https://github.com/BatesThaBeast/The-Labyrinth-Studios",
     "image":"/img/MarionMainMenu.png",
     "description":"Collaborated in a group of seven other people. We used the Unity game engine and coded in C# programming language. Collaborated closely with artists to ensure game fit specifications.",
-    "tags":["C#", "Unity", "State Machines", "GitHub", "git"],
+    "tags":["C-Sharp", "Unity", "State Machines", "GitHub", "git"],
     "fact":"1,500+ Active installations across large and small companies."
 }
 
