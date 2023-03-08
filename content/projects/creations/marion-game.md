@@ -10,7 +10,7 @@
           "GitHub",
           "git"
         ],
-    "fact":" 700+ \"pulls\" from docker hub"
+    "fact":""
 }
 
 
