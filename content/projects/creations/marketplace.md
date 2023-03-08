@@ -1,11 +1,19 @@
 {
-    "title":"3D Horror Game in Progress!",
+    "title":"Marion - 2D Top Down RPG Roguelike Game",
     "link":"https://github.com/BatesThaBeast/The-Labyrinth-Studios",
-    "image":"/img/workinprogstock.jpg",
-    "description":"Collaborating in a group of five other people. Using the Unity game engine and coding in C# programming language.",
-    "tags":["C-Sharp", "Unity", "State Machines", "GitHub", "git"],
-    "fact":""
+    "image":"/img/MarionMainMenu.png",
+    "description":"Collaborated in a group of seven other people. We used the Unity game engine and coded in C# programming language. Collaborated closely with artists to ensure game fit specifications.",
+    "tags":[
+          "C-Sharp",
+          "Unity",
+          "State Machines",
+          "GitHub",
+          "git"
+        ],
+    "fact":" 700+ \"pulls\" from docker hub"
 }
 
 
-Working on a 3D horror game that will be inspired by the Slenderman games. Will be a first person 3D horror game.
+Multiple levels with varying enemies and stats. Enemies have close and ranged attacks. Player can use sword and crossbow for their choice of weapon. Solve puzzles to get to the next level and clear the enemies from each room. Final enemy has cutscene and its own boss music.
+
+Gameplay Video Link: https://www.youtube.com/watch?v=BXJ_VgEVMa4&ab_channel=TomMezzie
