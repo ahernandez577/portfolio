@@ -9,3 +9,5 @@
 
 
 A simple horror game project, drawing inspiration from the iconic Slenderman games. With a modest approach, we've created a fun experience, incorporating elements from the Jack Brown Hall CSUSB building to add some familiarity. Cody the Coyote left his crayons out and it is your job to collect them before he gets to you!
+
+Try it out yourself: https://iradesa.itch.io/codys-crayons
