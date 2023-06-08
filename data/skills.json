@@ -1,11 +1,12 @@
 [
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "C/C++","C#","Java","HTML","CSS","git","GitHub","php","javascript", "Node", "React", "Laravel"]
+      "skills":[ "C/C++","C#","HTML","CSS","git","GitHub","JavaScript","Flutter", "Dart", "PHP", "Java", "Node", "React", "Laravel"]
   },
   {
       "grouping":"Data Management",
       "skills":[
+        {"name":"Firebase"},
         {"name":"Heroku"},
         {"name":"MongoDB"}
       ]
