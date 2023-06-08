@@ -1,7 +1,7 @@
 {
     "title":"Flutter Pokemon Application",
     "link":"https://github.com/Marzdor/slender_man_8_page_clone.git",
-    "image":"/img/CodytheCoyote.png",
+    "image":"/img/flutter-project.png",
     "description":"A very simple Flutter Mobile Application that I made to show my favorite Pokemon and add your favorite Pokemon. I focused on mainly utilizing Firebase in order to handle account information and use Firestore database to read data.",
     "tags":["Flutter", "Dart", "Firebase", "Firestore Database", "git", "Mobile Development"],
     "fact":""
