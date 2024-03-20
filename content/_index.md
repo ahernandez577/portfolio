@@ -9,8 +9,6 @@ outputs:
 - rss
 - json
 ---
-I am set to earn a Bachelor's Degree in Computer Systems with a concentration in Game Development in May 2023! 
-Interested in game development, software engineering, and other computer science fields. 
-Love to learn more about computer science! Earned three 
-different associate degrees that include: computer science, math and science, and mathematics. 
-Love video games so I decided to learn how to make them!
+Aspiring Cybersecurity professional with hands-on IT internship experience. Passionate about
+advancing IT and programming skills. Developed a Firebase-connected mobile app and crafted
+three distinct video games, showcasing programming prowess.

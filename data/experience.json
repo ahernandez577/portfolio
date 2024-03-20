@@ -1,10 +1,17 @@
 [
     {
+        "role":"IT Technician Intern",
+        "company":"City of Riverside",
+        "summary":"Creating tickets while ensuring timely follow-ups on requests.\n- Performed imaging of computers with accurate OS and applications, ensuring proper integration into the city server's domain using Active Directory.\n- Installed, configured, tested, and repaired standard desktop hardware, software, mobile devices, and peripherals for the City, ensuring optimal functionality.\n- Performed troubleshooting, recovery, and demonstrated expertise in configuring, optimizing Dell hardware, and software solutions.\n- O365 setup and support\n- Aided in managing a comprehensive IT asset inventory of new equipment while maintaining well-documented spares for quick replacements.\n- Monitored and maintained centralized enterprise configuration management services, utilizing Microsoft Intune and BigFix.\n",
+        "range":"Aug 2023 - Present"
+    },
+
+    {
         "role":"Coding Instructor",
         "company":"Coding Minds Academy",
         "summary":"Work with students and teach: Unity, Python and more.\n- Improve programming-related communication skills by teaching technical concepts.\n- Learn new technologies and programming languages and improve proficiency. Build on my own programming skills.",
-        "range":"March 2023 - Present"
-    },
+        "range":"March 2023 - August 2023"
+    }
 
     {
         "role":"Server/Carside/Host",
